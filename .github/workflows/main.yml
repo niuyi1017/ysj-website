@@ -29,8 +29,8 @@ jobs:
         # npm install
         # npm run clean
         # npm run build
-        cd public
-        ls
+        # cd public
+        # ls
         
 
     # npm install hexo-cli 
