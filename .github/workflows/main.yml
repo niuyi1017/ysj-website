@@ -58,4 +58,4 @@ jobs:
     #   run: ossutil cp -rf ./ oss://jncons/
 
     - name: Deply To OSS
-      run: ossutil cp / oss://ysj-website/ -rf
+      run: ossutil cp ./ oss://ysj-website/ -rf
