@@ -30,7 +30,7 @@ jobs:
         # npm run clean
         # npm run build
         # cd public
-        # ls
+        ls
         
 
     # npm install hexo-cli 
